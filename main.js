@@ -26,7 +26,7 @@ function templateHTML(title, list, body){
 function templateList(filelist){
     var list = `<ol>`;
     var i = 0;
-    while(i<filelist.length){
+    while(i<filelist.length) {
         list += `<li><a href="/?id=${filelist[i]}">${filelist[i]}</a></li>`;
         i++;
     }
