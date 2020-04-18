@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53c489ee-451f-468d-8534-f2dd1d513307" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/syntax/object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syntax/object2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syntax/object3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,7 +29,7 @@
           <entry key="HTML" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="html" value="5" />
-          <entry key="js" value="6" />
+          <entry key="js" value="8" />
           <entry key="node js" value="1" />
           <entry key="rnc" value="1" />
           <entry key="txt" value="2" />
@@ -37,7 +38,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="5" />
-          <entry key="JavaScript" value="6" />
+          <entry key="JavaScript" value="8" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="RNG Compact" value="1" />
         </counts>
@@ -45,14 +46,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="206" />
-          <entry key="js" value="4436" />
+          <entry key="js" value="4974" />
           <entry key="txt" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="267" />
-          <entry key="JavaScript" value="4375" />
+          <entry key="JavaScript" value="4913" />
           <entry key="PLAIN_TEXT" value="86" />
         </counts>
       </usages-collector>
@@ -69,11 +70,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/syntax/object.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="402">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/syntax/object2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/syntax/object3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -146,6 +165,8 @@
         <option value="$PROJECT_DIR$/syntax/form.html" />
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/syntax/object.js" />
+        <option value="$PROJECT_DIR$/syntax/object2.js" />
+        <option value="$PROJECT_DIR$/syntax/object3.js" />
       </list>
     </option>
   </component>
@@ -219,12 +240,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587059606545</updated>
-      <workItem from="1587059607702" duration="16562000" />
+      <workItem from="1587059607702" duration="17578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16562000" />
+    <option name="totallyTimeSpent" value="17578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -374,8 +395,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/syntax/object.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="402">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syntax/object2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syntax/object3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
