@@ -5,7 +5,8 @@ node.js를 이용하여 만든 간단한 웹사이트이며, 글 작성 / 수정
 
 ---
 
-## 공부한 내용
+## Study about
 1. file write / modified / remove
 2. module
 3. Object Oriented Programming
+4. How to refer to official documents
